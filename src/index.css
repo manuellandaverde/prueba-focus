@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.vmboxes-list-title {
+  margin: 15px;
+}
+
+.vmbox-row {
+  margin: 15px;
+  padding: 10px;
+  background-color: gray;
+}
+
+.vmbox-voice-mail {
+  margin: 15px;
+  padding: 10px;
+  color: white;
+  background-color: black;
+}
+
+.vmbox-voice-from {
+  margin-right: 20px;
+}
+
+.vmbox-voice-to {
+  margin-right: 20px;
+}
